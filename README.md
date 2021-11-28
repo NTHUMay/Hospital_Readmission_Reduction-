@@ -1,2 +1,2 @@
-# Hospital_Readmission_Reduction-
+# Hospital_Readmission_Reduction
 Managing Analytics Final Project (Modeling for Reducing Readmission Rate)
