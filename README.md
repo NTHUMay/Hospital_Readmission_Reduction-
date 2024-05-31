@@ -1,2 +1,6 @@
 # Hospital_Readmission_Reduction
-Managing Analytics Final Project (Modeling for Reducing Readmission Rate)
+Readmission is a prevalent issue for hospitals and often translates directly to additional costs. Moreover, high readmission rates also give insight into the reduced quality of life and care of the patients. Therefore, understanding the characteristics of readmission can help a hospital (doctors, in particular) develop appropriate plans of action for patients with a high risk of readmission. Consequently, improving how doctors currently identify high-risk patients can reduce costs and improve the quality of life among patients.
+
+In the U.S., there are health disparities related to race, gender, age. Data shows that racial and ethnic minority groups experience higher rates of illness across rates of health conditions - including diabetes. Additionally, there exist gender differences in health and the use of health services. Moreover, these health disparities may become more prevalent among the elderly. Consequently, we hypothesize that these demographic features - in addition to medical history (emergency visits) and current medical condition (number of medications, admission type) - are significant predictors for readmission.
+
+Therefore, this model is to help identifying what are the most significant features that causes readmission. 
